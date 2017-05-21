@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:8:5-75:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:11:9-34
+	android:icon
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:9:9-38
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:10:9-33
+meta-data#com.amap.api.v2.apikey
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:13:9-14:63
+	android:value
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:14:13-61
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:13:20-57
+activity#com.iflytek.mscv5plusdemo.IatDemo
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:15:9-27:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:20:13-38
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:18:13-133
+	android:icon
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:19:13-42
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:17:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:25:27-74
+activity#com.iflytek.speech.setting.TtsSettings
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:28:19-72
+activity#com.iflytek.speech.setting.IatSettings
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:30:19-72
+activity#com.iflytek.speech.setting.UnderstanderSettings
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:32:19-81
+activity#com.iflytek.mscv5plusdemo.AsrDemo
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:41:13-133
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:40:13-61
+activity#com.iflytek.mscv5plusdemo.UnderstanderDemo
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:44:9-48:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:47:13-49
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:46:13-133
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:45:13-70
+activity#com.iflytek.mscv5plusdemo.TtsDemo
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:49:9-53:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:51:13-133
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:50:13-61
+activity#com.iflytek.mscv5plusdemo.IvwActivity
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:54:9-58:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:57:13-49
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:56:13-133
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:55:13-65
+activity#com.iflytek.mscv5plusdemo.WakeDemo
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:59:9-63:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:62:13-49
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:61:13-133
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:60:13-62
+activity#com.iflytek.mscv5plusdemo.OneShotDemo
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:64:9-68:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:67:13-49
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:66:13-133
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:65:13-65
+activity#com.iflytek.mscv5plusdemo.GPSNaviActivity
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:69:9-73:20
+	android:screenOrientation
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:72:13-49
+	android:configChanges
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:71:13-133
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:70:13-69
+service#com.amap.api.location.APSService
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:74:9-76
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:74:18-65
+uses-sdk
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:77:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:77:15-40
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:79:5-71
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:79:22-68
+uses-permission#android.permission.INTERNET
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:80:5-67
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:80:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:81:5-79
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:81:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:82:5-76
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:82:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:83:5-79
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:83:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:85:5-81
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:85:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:87:5-76
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:87:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:89:5-67
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:89:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:90:5-75
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:90:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:91:5-79
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:91:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:92:5-72
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:92:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:93:5-81
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:93:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:94:2-70
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:94:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:95:2-77
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:95:19-74
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:96:5-69
+	android:name
+		ADDED from F:\Documents\AndroidStudioProjects\MscV5PlusDemo1\MscV5PlusDemo\src\main\AndroidManifest.xml:96:22-66

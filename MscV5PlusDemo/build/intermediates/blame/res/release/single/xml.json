@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\xml\\iat_setting.xml",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\xml\\iat_setting.xml"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\xml\\tts_setting.xml",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\xml\\tts_setting.xml"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\xml\\understand_setting.xml",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\xml\\understand_setting.xml"
+    }
+]

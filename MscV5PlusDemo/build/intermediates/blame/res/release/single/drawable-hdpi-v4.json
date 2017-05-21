@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ok.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\ok.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mic_0.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\mic_0.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_left_n.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_left_n.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ok_d.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\ok_d.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_left_p.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_left_p.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_login.xml",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\button_login.xml"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_left_f.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_left_f.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mic_2.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\mic_2.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\login_p.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\login_p.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_clear_material.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\login.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cancel_p.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\cancel_p.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_right.xml",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_right.xml"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ok_p.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\ok_p.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_ab_back_material.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mic_3.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\mic_3.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_search_api_material.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_ic_search_api_material.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pane_bg.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\pane_bg.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_vector_test.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_vector_test.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\edittext_name.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\edittext_name.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mic_1.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\mic_1.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\editbox.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\editbox.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cancel.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\cancel.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_arrow_drop_right_black_24dp.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\abc_ic_arrow_drop_right_black_24dp.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\head.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\head.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_left.xml",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_left.xml"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\name_left.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\name_left.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\superman.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\superman.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\name_right.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\name_right.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_right_f.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_right_f.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_right_p.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_right_p.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_right_n.9.png",
+        "source": "F:\\Documents\\AndroidStudioProjects\\MscV5PlusDemo1\\MscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_right_n.9.png"
+    }
+]
